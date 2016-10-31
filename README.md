@@ -4,7 +4,7 @@
   <br>
   <br>
 </h1>
-<h4 align="center">A real-time collaboration editor, web host, voice chat and social network.</h4>
+<h3 align="center">Real-Time Editor, Web Host, Voice Chat, and Social Network.</h3>
 
 <img align-"center" src="https://github.com/RationalCoding/multihack/blob/gh-pages/img/mockup.jpg?raw=true">
 
