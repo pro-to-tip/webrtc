@@ -38,7 +38,7 @@ If you want to stay in MultiHack, you can save your project to your browsers Loc
 Upload files, ZIP archives, and even pull from GitHub without leaving MultiHack!  
 
 ###Works Offline
-When your internet connection drops, MultiHack moves the code you are working on into your own private room.  
+When your internet connection drops, MultiHack moves your code into your own private room.  
 You can keep working on your own version without interruptions.
 
 ###Works On Mobile
