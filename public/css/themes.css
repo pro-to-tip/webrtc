@@ -145,6 +145,7 @@
 }
 .theme-atom .tree li.file a {
     color: #aaaaaa;
+    border-radius: 3px 5px 5px 3px;
 }
 .theme-atom .tree .plus {
     color: #2BDA77;
