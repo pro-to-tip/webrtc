@@ -1,13 +1,12 @@
 /* CSS Tree menu styles */
 
 ol.tree {
-    padding: 0 0 0 30px;
-    width: 80%;
+       padding: 0 0 0 30px;
+    width: 100%;
     height: 30%;
     z-index: 1;
-    background: linear-gradient(to right, #303030 20%, transparent 50%);
+    background: linear-gradient(160deg, rgba(0, 0, 0, 0.4) 50%, transparent 0% );
 }
-
 li {
     position: relative;
     margin-left: -15px;
