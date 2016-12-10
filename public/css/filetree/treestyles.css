@@ -101,3 +101,10 @@ li input:checked + ol > li:last-child {
     margin: 0 0 0.063em;
     /* 1px */
 }
+
+#cryptochat {
+ position: absolute;
+ top: 0%;
+ height: 100%;
+ width: 100%;
+}
