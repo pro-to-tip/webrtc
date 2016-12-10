@@ -108,7 +108,7 @@ li input:checked + ol > li:last-child {
  width: 100%;
 }
 #topb {
-    background: linear-gradient(to right, #303030 20%, transparent 50%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.4) 100%, transparent 50%);
     z-index: 2;
     height: 24px;
 }
