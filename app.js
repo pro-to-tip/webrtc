@@ -215,7 +215,7 @@ server.listen(port, function(){
 });
 
 // Serve /public/* as /
-app.use(express.static(__dirname + '/static'));
+
 
 io.on('connection', function(socket) {
 
