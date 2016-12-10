@@ -2,7 +2,11 @@
 
 ol.tree {
     padding: 0 0 0 30px;
-    width: 300px;
+    width: 80%;
+    height: 30%;
+    z-index: 1;
+    background: linear-gradient(to right, #303030 20%, transparent 50%);
+}
 }
 
 li {
