@@ -22,8 +22,7 @@
     "win32"
   ],
   "devDependencies": {},
-  
-  "repository": {},
+    "repository": {},
   "engines": {
     "node": "4.x"
   }
