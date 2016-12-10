@@ -4,7 +4,8 @@
   "description": "Server for Multihack live collab tool.",
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "bin" : "./server.js"
   },
   "author": "Thomas Mullen",
   "license": "MIT",
