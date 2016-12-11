@@ -75,6 +75,7 @@
 .theme-atom .theme-dark{
     background: #222222;
     border: 1px black solid;
+   -webkit-transition: all 0.45s ease-out;
 }
 
 .theme-atom .theme-mid{
