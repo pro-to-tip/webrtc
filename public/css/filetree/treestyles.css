@@ -9,7 +9,7 @@ ol.tree {
 }
 li {
     position: relative;
-    margin-left: -15px;
+    margin-left: -3px;
     list-style: none;
     cursor: pointer;
 }
