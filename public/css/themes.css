@@ -147,8 +147,8 @@
 .theme-atom .tree li.file a {
     color: #aaaaaa;
     border-radius: 3px 5px 5px 3px;
-    background: linear-gradient(60deg, rgba(48, 48, 48, 0.72) 30%, rgba(0, 255, 10, 0.26) 68% );
-    width:50%;
+        background: linear-gradient(60deg, rgba(48, 48, 48, 0.72) 0%, rgba(0, 255, 10, 0.26) 0% );
+    width: 60%;
 }
 .theme-atom .tree .plus {
     color: #2BDA77;
