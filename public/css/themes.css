@@ -148,6 +148,7 @@
     color: #aaaaaa;
     border-radius: 3px 5px 5px 3px;
     background: linear-gradient(60deg, rgba(48, 48, 48, 0.72) 30%, rgba(0, 255, 10, 0.26) 68% );
+    width:50%;
 }
 .theme-atom .tree .plus {
     color: #2BDA77;
