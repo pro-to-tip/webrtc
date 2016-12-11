@@ -248,6 +248,7 @@ img ,
 .workspace .editor {
     background: black;
     height: 100%;
+   -webkit-transition: all 0.45s ease-out;
 }
 
 .workspace .statusbar {
@@ -564,6 +565,7 @@ span.mobile-hide{
 @media only screen and (min-width: 768px) {
     .workspace {
         left: 340px;
+       -webkit-transition: all 0.45s ease-out;
     }
     .sidebar {
         width: 340px;
