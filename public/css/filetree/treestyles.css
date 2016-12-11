@@ -16,6 +16,7 @@ li {
 
 li.file {
     margin-left: -6px !important;
+    padding: 1.5px;
 }
 
 li.file a {
